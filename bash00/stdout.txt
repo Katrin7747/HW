@@ -1,1 +1,1 @@
-redirect stdout to a file
+1
